@@ -7,6 +7,8 @@
 - Twitter -> @iMrHammad
 - GitHub - > You are Already Here Dude!
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HammadMaqbool&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 <!---
 HammadMaqbool/HammadMaqbool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
