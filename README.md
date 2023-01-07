@@ -42,12 +42,6 @@
     ![HTML](https://img.shields.io/badge/HTML-%23e07510.svg?style=for-the-badge&logo=web&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-0078d7.svg?style=for-the-badge&logo=css&logoColor=white)
     
-   
-	
-<br>   
-    
-- **Frameworks I Know**:
-<br>
 	
    
 	
