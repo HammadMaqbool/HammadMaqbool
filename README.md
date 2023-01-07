@@ -34,22 +34,23 @@
 <p align="center">
 
 - **Languages I Work on**:
-<br>
-![C#](https://img.shields.io/badge/C%23-.NET-blue)
-![C++](https://img.shields.io/badge/C-C%2B%2B-lightgrey)
-![Python](https://img.shields.io/badge/Python-3.XX-green)
-![HTML](https://img.shields.io/badge/HTML-Markup%20Language-red)
-![CSS](https://img.shields.io/badge/CSS-Styling%20Language-orange)
 
+
+    ![C#](https://img.shields.io/badge/C%20Sharp-%239810e0.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+    ![C++](https://img.shields.io/badge/%20C++-0078d7.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) 
+    ![HTML](https://img.shields.io/badge/HTML-%23e07510.svg?style=for-the-badge&logo=web&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-0078d7.svg?style=for-the-badge&logo=css&logoColor=white)
+    
+   
+	
 <br>   
     
 - **Frameworks I Know**:
 <br>
-    ![BootStrap](https://img.shields.io/badge/BootStrap-Front%20End-orange)
-    ![.NETCore](https://img.shields.io/badge/.NET-Core-blueviolet)
-    ![MAUI](https://img.shields.io/badge/MAUI-.NET-blueviolet)
-    ![Flask](https://img.shields.io/badge/Flask%20|-Python-gray)
+	
    
+	
 <br>
 
 - **Softwares and Tools**:
