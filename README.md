@@ -19,8 +19,8 @@
 
 - A passionate programmer
 - Love to read books and learn new things.
-- Currently working on MAUI.NET - C#
-- Personal website👉[Personal Site](https://iamhammadmaqbool.com)
+- Currently working on Blazor Server - C#
+- Personal website👉[Personal Site](https://hammadmaqbool.com)
 - Providing short courses at my site 👉 [Maqbool Courses Institue](https://maqboolcourses.com)
 - Share Intresting Tutorials on my YouTube Channel 👉 [Software Engineering](https://www.youtube.com/SoftwareEngineering)
 
